@@ -1,2 +1,4 @@
 .DS_Store
 information_extraction/
+infomation_extraction/*
+/infomation_extraction
